@@ -1,0 +1,67 @@
+# This file controls the settings for your Quarto template from www.marvinschmitt.com
+
+# website settings
+website:
+  title: "ENAR Mentorship Program"                                # Your name
+  description: "The ENAR Mentorship Program connects prospective mentees in the ENAR community to more senior mentors for one-touch individualized mentoring sessions."   # slogan
+  image: img/enar-logo.jpg
+  
+  favicon: img/enar-logo.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    #logo: /img/enar-logo.png
+    
+    # your sub-pages
+    left:
+      - text: "Available Mentors"
+        href: mentors/index.qmd
+      - text: "Get Involved"
+        href: join/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: house
+        href: https://www.enar.org/
+
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2025 ENAR CC BY-SA 4.0</span>
+    center: |
+      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">If you like our website, here's a tutorial!</a></span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub (CHANGE ME)</a></span>
+
+project:
+  type: website
+  output-dir: docs
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

@@ -1,0 +1,36 @@
+---
+title: "Get involved!"
+---
+
+
+::: {layout-ncol=2}
+
+### Prospective Mentees
+
+Action Item for Prospective Mentees
+
+### Prospective Mentors
+
+Action Item for Prospective Mentors
+
+:::
+
+
+------------------------------------------------------------
+
+For more information, contact any of our committee members.
+
+::: {layout-ncol=5}
+
+[Daphna Harel](daphna's email)
+
+[Sarah Lotspeich](sarah's email)
+
+[Jamie Joseph](jamie's email)
+
+[Taylor Krajewski](taylor's email)
+
+[Ashley Mullan](mailto:ashley.e.mullan@vanderbilt.edu)
+
+:::
+

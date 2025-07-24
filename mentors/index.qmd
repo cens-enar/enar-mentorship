@@ -1,0 +1,32 @@
+---
+title: "Available Mentors"
+---
+
+Click on a mentor's baseball card to enlarge it!
+
+### Are you looking for a graduate student mentor?
+
+::: {layout-ncol=3}
+[![](cards/ashley-mullan.png)](cards/ashley-mullan.png){width=2in}
+:::
+
+### Are you looking for an early career (definition here) mentor?
+
+::: {layout-ncol=3}
+[![](cards/jamie-joseph.png)](cards/jamie-jospeh.png){width=2in}
+
+[![](cards/taylor-krajewski.png)](cards/taylor-krajewski.png){width=2in}
+::: 
+
+### Are you looking for a mid career (definition here) mentor?
+
+::: {layout-ncol=3}
+
+[![](cards/daphna-harel.png)](cards/daphna-harel.png){width=2in}
+
+[![](cards/sarah-lotspeich.png)](cards/sarah-lotspeich.png){width=2in}
+::: 
+
+### Are you looking for a senior (definition here) mentor?
+
+insert cards here as we get them

@@ -1,0 +1,23 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/enar-logo.png"
+  links:
+    - icon: house
+      text: ENAR Home Page
+      href: https://www.enar.org/
+---
+
+::: {#about-block}
+:::
+
+# Welcome to the ENAR Mentoring Program!
+
+Established in 2025, the ENAR Mentoring Program connects prospective mentees within the ENAR community with more senior mentors for one-touch individualized mentoring sessions. Mentors span a wide range of experience, from seasoned leaders in the (bio)statistics field looking to support their junior colleagues to senior graduate students helping newer graduate students navigate their educational path.
+
+insert language here about expectations.
+
+If you are a prospective mentee looking to take advantage of this program, ACTION ITEMS HERE.
+
+If you are a prospective mentor willing to donate your time, ACTION ITEMS HERE.
