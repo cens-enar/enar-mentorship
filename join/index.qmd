@@ -7,11 +7,11 @@ title: "Get involved!"
 
 ### Prospective Mentees
 
-Action Item for Prospective Mentees
+Please note that participation in this program is limited to active ENAR members. Stay tuned for the sign-up link!
 
 ### Prospective Mentors
 
-Action Item for Prospective Mentors
+A sign-up link for prospective mentors is available [here](https://docs.google.com/forms/d/e/1FAIpQLSdAYXzjoMas-W6SGr-LYENdyl--dD22rLB91QqDZTAQPpednQ/viewform?usp=header). 
 
 :::
 
@@ -22,13 +22,13 @@ For more information, contact any of our committee members.
 
 ::: {layout-ncol=5}
 
-[Daphna Harel](daphna's email)
+[Daphna Harel](mailto:daphna.harel@nyu.edu)
 
-[Sarah Lotspeich](sarah's email)
+[Sarah Lotspeich](mailto:lotspes@wfu.edu)
 
-[Jamie Joseph](jamie's email)
+[Jamie Joseph](mailto:jjosep11@hfhs.org)
 
-[Taylor Krajewski](taylor's email)
+[Taylor Krajewski](mailto:taylor.krajewski@duke.edu)
 
 [Ashley Mullan](mailto:ashley.e.mullan@vanderbilt.edu)
 

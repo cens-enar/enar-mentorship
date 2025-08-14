@@ -2,7 +2,15 @@
 title: "Available Mentors"
 ---
 
-Click on a mentor's baseball card to enlarge it!
+Click on a mentor's baseball card to enlarge it! For our program, we use the following definitions.
+
+A **graduate student mentor** has not yet finished their terminal degree.
+
+An **early career mentor** received their terminal degree less than 4 years ago.
+
+A **mid career mentor** received their terminal degree between 4 and 9 years ago.
+
+A **senior mentor** received their terminal degree at least 10 years ago.
 
 ### Are you looking for a graduate student mentor?
 
@@ -10,7 +18,7 @@ Click on a mentor's baseball card to enlarge it!
 [![](cards/ashley-mullan.png)](cards/ashley-mullan.png){width=2in}
 :::
 
-### Are you looking for an early career (definition here) mentor?
+### Are you looking for an early career mentor?
 
 ::: {layout-ncol=3}
 [![](cards/jamie-joseph.png)](cards/jamie-jospeh.png){width=2in}
@@ -18,15 +26,16 @@ Click on a mentor's baseball card to enlarge it!
 [![](cards/taylor-krajewski.png)](cards/taylor-krajewski.png){width=2in}
 ::: 
 
-### Are you looking for a mid career (definition here) mentor?
+### Are you looking for a mid career mentor?
 
 ::: {layout-ncol=3}
-
-[![](cards/daphna-harel.png)](cards/daphna-harel.png){width=2in}
 
 [![](cards/sarah-lotspeich.png)](cards/sarah-lotspeich.png){width=2in}
 ::: 
 
-### Are you looking for a senior (definition here) mentor?
+### Are you looking for a senior mentor?
 
-insert cards here as we get them
+::: {layout-ncol=3}
+
+[![](cards/daphna-harel.png)](cards/daphna-harel.png){width=2in}
+:::

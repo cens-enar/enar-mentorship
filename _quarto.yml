@@ -36,9 +36,9 @@ website:
     left: |
       <span class="faux-block">&#169; 2025 ENAR CC BY-SA 4.0</span>
     center: |
-      <span class="faux-block"><a href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/">If you like our website, here's a tutorial!</a></span>
+      <span class="faux-block"><a href="https://marvin-schmitt.com/blog/website-tutorial-quarto/#introduction">If you like our website, here's a tutorial!</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/marvinschmitt/quarto-website-template/">View source on GitHub (CHANGE ME)</a></span>
+      <span class="faux-block"><a href="https://github.com/cens-enar/enar-mentorship">View source on GitHub!</a></span>
 
 project:
   type: website
