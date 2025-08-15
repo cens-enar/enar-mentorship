@@ -2,4 +2,4 @@
 
 This repository contains the materials for the program website.
 
-The link will go <here> as we finalize the pilot run.
+Check out <https://cens-enar.github.io/enar-mentorship/> for details!
